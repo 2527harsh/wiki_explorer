@@ -1,0 +1,13 @@
+{
+  "batchcomplete": "",
+  "continue": {
+    "accontinue": "List_of_something",
+    "continue": "-||"
+  },
+  "query": {
+    "allcategories": [
+      { "*": "List of aerospace companies" },
+      { "*": "List of architecture awards" }
+    ]
+  }
+}
