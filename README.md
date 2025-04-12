@@ -27,7 +27,7 @@ An Android app to explore Wikipedia content using the Wikipedia REST API — bui
 
 ## 📸 Screenshots
 
-*Coming soon — add your screenshots here!*
+*Added screenshot of app in a folder name screenshots *
 
 ---
 
